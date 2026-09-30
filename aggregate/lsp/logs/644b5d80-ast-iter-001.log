@@ -1,0 +1,7 @@
+[2026-09-30T07:03:29Z] === AST ITERATION 1 START | repo=NousResearch/hermes-plugin-byterover sha=644b5d80 ===
+[2026-09-30T07:03:29Z] [iter=1] PHASE START: ast repo=NousResearch/hermes-plugin-byterover sha=644b5d80
+[2026-09-30T07:03:29Z] [iter=1] Building AST aggregate chunks
+[2026-09-30T07:03:30Z] [iter=1] AST chunks built count=1 triples=18948
+[2026-09-30T07:03:30Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/644b5d8007ece364fd09122d9b225a00442f5f1f/.complete
+[2026-09-30T07:03:30Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-09-30T07:03:30Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

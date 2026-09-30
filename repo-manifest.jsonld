@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-plugin-byterover/commit/644b5d8007ece364fd09122d9b225a00442f5f1f",
       "git:hexsha": "644b5d8007ece364fd09122d9b225a00442f5f1f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
