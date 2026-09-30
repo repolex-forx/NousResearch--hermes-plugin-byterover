@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-byterover",
+  "versions": [
+    {
+      "commit": "644b5d8007ece364fd09122d9b225a00442f5f1f",
+      "parsed_at": "2026-09-30T07:01:51.409799+00:00",
+      "tag": "main",
+      "filetree": "filetree/644b5d8007ece364fd09122d9b225a00442f5f1f.nq.gz",
+      "blobs": [
+        "blob/75410e73319c72cd3e991a501c5455eb78f38375.nq.gz",
+        "blob/6e23f0a828bb644a4fc40caec89cd965378ccbd5.nq.gz",
+        "blob/00f2d38d8063d0c6b219c0081e51888063b0c55e.nq.gz",
+        "blob/e357b1208cf65f2c0655d99ba6c58a6819120505.nq.gz",
+        "blob/6b93a272ffcf81348d5dbb6f7324e85b0a4a28e4.nq.gz",
+        "blob/a6645c3c529899ac21d8ed9e51a19958a5614920.nq.gz",
+        "blob/3cfdcd2125af8de7bddf5059b7c8eb2460d8199f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
